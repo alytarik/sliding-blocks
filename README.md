@@ -1,2 +1,2 @@
 Made With Unity.
-Demo: https://alytarik.github.io/SlidingBlocksGame/
+Demo: https://alytarik.github.io/sliding-blocks/
